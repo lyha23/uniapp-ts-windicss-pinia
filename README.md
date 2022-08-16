@@ -33,6 +33,9 @@ yarn build:mp-weixin
 
 ### 预览（h5 build 的时候，会出现样式丢失问题，因而与图片不符）
 [live demo](http://uniapp-template.demo.qqoc.co/#/)
+![IMG_3062](https://user-images.githubusercontent.com/75962592/184828613-e11f3d35-7288-4706-91fe-a1d26da994ee.PNG)
+![IMG_3063](https://user-images.githubusercontent.com/75962592/184828651-17200da9-251f-4c17-a0fb-ecd811b75f2c.PNG)
+
 
 ### 项目地址
 [github](https://github.com/sjtuli/uniapp-ts-windicss-pinia)
