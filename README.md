@@ -3,8 +3,8 @@
 
 1. windicss以及flex布局的css工具拓展
 2. pinia + localStorage 持久化处理，记录用户信息
-4. 统一的request api请求处理
-
+3. 统一的request api请求处理
+4. 自定义的tabBar，支持各种样式
 
 >背景：windicss真的爽，不接受反驳
 
