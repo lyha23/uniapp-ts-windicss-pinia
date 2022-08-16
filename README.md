@@ -2,9 +2,8 @@
 利用`uniapp` + `windicss` + `ts` + `vite` 搭建的一套基础模板
 
 1. windicss以及flex布局的css工具拓展
-2. miniprogram-ci集成，实现通过GitHub Actions自动执行脚本构建打包上传
-3. 基本的列表和表单demo
-4. 统一的request api请求处理，枚举与正则校验
+2. pinia + localStorage 持久化处理，记录用户信息
+4. 统一的request api请求处理
 
 
 >背景：windicss真的爽，不接受反驳
