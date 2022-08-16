@@ -1,0 +1,15 @@
+{
+  "extEnable": true,
+  "extAppid": "wx62b5d9caaf692c3f",
+  "directCommit": false,
+  "ext": {
+    "name": "wechat",
+    "attr": {
+      "host": "open.weixin.qq.com",
+      "users": [
+        "user_1",
+        "user_2"
+      ]
+    }
+  }
+}
