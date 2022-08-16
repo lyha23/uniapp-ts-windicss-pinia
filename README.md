@@ -33,7 +33,7 @@ yarn build:mp-weixin
 
 ### 预览（h5 build 的时候，会出现样式丢失问题，因而与图片不符）
 [live demo](http://uniapp-template.demo.qqoc.co/#/)
-<img src="https://user-images.githubusercontent.com/75962592/184828613-e11f3d35-7288-4706-91fe-a1d26da994ee.PNG" width=320 right=30/>
+<img src="https://user-images.githubusercontent.com/75962592/184828613-e11f3d35-7288-4706-91fe-a1d26da994ee.PNG" width=320 style="margin-right=30px"/>
 <img src="https://user-images.githubusercontent.com/75962592/184828651-17200da9-251f-4c17-a0fb-ecd811b75f2c.PNG" width=320 />
 
 
